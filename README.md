@@ -1,45 +1,7 @@
 # latihan2_Shelter
 Latihan 2
-
-            	     .-.
-                        ( (
-                         `-'
-
-
-
-
-
-
-                    .   ,- MENDATA PENDUDUK!
-                   .'.
-                   |o|
-                  .'o'.
-                  |.-.|
-                  '   '
-                   ( )
-                    )
-                   ( )
-
-               ____
-          .-'""p 8o""`-.
-       .-'8888P'Y.`Y[ ' `-.
-     ,']88888b.J8oo_      '`.
-   ,' ,88888888888["        Y`.
-  /   8888888888P            Y8\
- /    Y8888888P'             ]88\
-:     `Y88'   P              `888:
-:       Y8.oP '- >            Y88:
-|          `Yb  __             `'|
-:            `'d8888bo.          :
-:             d88888888ooo.      ;
- \            Y88888888888P     /
-  \            `Y88888888P     /
-   `.            d88888P'    ,'
-     `.          888PP'    ,'
-       `-.      d8P'    ,-'   
-          `-.,,_'__,,.-'
-                              '-
-#MENDATA PENDUDUK!!
+               '-
+# MENDATA PENDUDUK!!
 
 Sebuah pangkalan ruang angkasa meminta Anda untuk membuat sebuah program yang dapat mendata penduduk yang tinggal di sebuah shelter! Masing-masing shelter memiliki jumlah penduduk yang berbeda. Mereka harus segera di data sehingga dari HQ bisa memberikan pasokan sandang pangan yang cukup mereka. Anda di tugaskan oleh bagian Administrasi untuk membantunya dalam mendata penduduk tersebut. Berikut adalah task yang harus Anda selesaikan:
 
