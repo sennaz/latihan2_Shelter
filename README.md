@@ -1,11 +1,11 @@
 # latihan2_Shelter
 Latihan 2
-               '-
-# MENDATA PENDUDUK!!
+              
+# MENDATA PENDUDUK!! (BAGIAN 2)
 
-Sebuah pangkalan ruang angkasa meminta Anda untuk membuat sebuah program yang dapat mendata penduduk yang tinggal di sebuah shelter! Masing-masing shelter memiliki jumlah penduduk yang berbeda. Mereka harus segera di data sehingga dari HQ bisa memberikan pasokan sandang pangan yang cukup mereka. Anda di tugaskan oleh bagian Administrasi untuk membantunya dalam mendata penduduk tersebut. Berikut adalah task yang harus Anda selesaikan:
+Anda di tugaskan kembali oleh bagian Administrasi untuk membantunya dalam mendata penduduk tersebut! Alasannya karena ada orang lain yang dapat mengakses ke pendataan tersebut dan merubah semuanya. Berikut adalah task yang harus Anda selesaikan:
 
-Buatlah 2 buah kelas, yakni main dan shelter. Terdapat 3 buah shelter dengan jumlah penduduk yang berbeda. Pada kelas shelter terdapat default constructor, overloading constructor serta instance method.
+Dengan template yang ada, benarkan dan aplikasikan tentang enkapsulasi yang sudah Anda pelajari!
 
 Keterangan:
 - # Kelas Shelter
@@ -19,20 +19,18 @@ Keterangan:
 - setJumlahPenduduk
 - getJumlahPenduduk
 - getPendudukByIndex
-- addPenduduk
-- tampilPenduduk
-Ingat untuk membuat (minimal 3) overloading constructor dengan parameter yang Anda tentukan sendiri.
+- addPenduduk (sudah ada di template)
+- tampilPenduduk (Sudah ada di template)
 
 4. Buat 3 objek dengan jumlah penduduk yang berbeda. Untuk nama penduduk bisa menggunakan alias (semisal: H1, D5, JK12, BTW) untuk mempermudah pendataan.
 
 - # Kelas main
 1. Buatlah sebuah menu atau opsi data apa yang ingin di tampilkan. Berikut adalah opsinya:
-- Jumlah penduduk berdasarkan Shelter
-- Menampilkan nama-nama penduduk semua Shelter
-- Nama penduduk dari suatu Shelter
+- Jumlah penduduk berdasarkan Shelter dan totalnya (jumlah berarti nominal. Di tampilkan jumlah masing-masing shelter)
+- Menampilkan nama-nama penduduk semua Shelter (per shelter diipisahkan)
 - Nama penduduk dari suatu Shelter di index tertentu
 - Menambahkan penduduk pada suatu Shelter
-Kreasikan sendiri menu Anda sehingga terlihat interaktif.
+Kreasikan kembali menu Anda sehingga terlihat interaktif.
 
 2. Pada main class, buatlah sebuah komentar bertuliskan nama lengkap Anda dan NIM
 
